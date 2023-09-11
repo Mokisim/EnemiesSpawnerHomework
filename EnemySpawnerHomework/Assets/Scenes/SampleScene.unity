@@ -660,7 +660,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _spawnPoint: {fileID: 707004899}
-  _enemyPrefab: {fileID: 1013567037945938229, guid: 73dd8f692f7f74342a1bc1d7c6367690, type: 3}
+  _enemyPrefab: {fileID: 3564467764125385698, guid: 73dd8f692f7f74342a1bc1d7c6367690, type: 3}
 --- !u!1 &785943648
 GameObject:
   m_ObjectHideFlags: 0
